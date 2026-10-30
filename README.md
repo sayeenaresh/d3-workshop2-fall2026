@@ -69,7 +69,7 @@ git push
 ## Your answers
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
-
+Lance Stroll's tyre strategy was the most different fromhe race winner (Max Verstappen) strategy. While Verstappen used Medium tyres and then Hard tyres with one pit stop, Stroll started on Soft tyres, switched to Hard tyres, and finished on Medium tyres with two pit stops. The chart shows  Stroll's three distinct tyre stints and earlier tyre changes compared to Verstappen.
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
