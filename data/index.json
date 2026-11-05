@@ -19,5 +19,19 @@
     "year": 2025,
     "meeting_key": 1267,
     "file": "races/2025-dutch.json"
+  },
+  {
+    "id": "2024-emilia-romagna",
+    "label": "Emilia Romagna Grand Prix 2024",
+    "year": 2024,
+    "meeting_key": 1235,
+    "file": "races/2024-emilia-romagna.json"
+  },
+  {
+    "id": "2024-monaco",
+    "label": "Monaco Grand Prix 2024",
+    "year": 2024,
+    "meeting_key": 1236,
+    "file": "races/2024-monaco.json"
   }
 ]

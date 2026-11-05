@@ -73,11 +73,11 @@ Lance Stroll's tyre strategy was the most different fromhe race winner (Max Vers
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
-
+The race trace for 2025 Japanese Grand Prix shows how the time gaps between drivers change throughout the race as compared to a reference driver. It makes it easier to see how small differences in lap times accumulate and how pit stops cause sudden changes in the gaps between drivers. It also shows which drivers gained or lost time throughout the race instead of just how fast they completed individual laps.
 >
 
 **Bonus** (optional): which race did you add, and why?
-
+I added the 2024 Emilia Romagna Grand Prix and the 2024 Monaco Grand Prix because I wanted to see how the visualizations would look with different circuits and race strategies. Monaco was interesting because of its narrow street circuit and I wanted to compare how the drivers' tyre strategies differed between the two races.
 >
 
 ---
